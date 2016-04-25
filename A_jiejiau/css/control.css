@@ -80,6 +80,7 @@ html{
 .me-tabel-box table thead th{
 	background: #b4c6de;
 	color: #50617b;
+	white-space: nowrap;
 }
 .me-tabel-box table tbody tr:hover td{
 	background:none;
